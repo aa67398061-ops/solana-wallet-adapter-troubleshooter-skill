@@ -1,0 +1,15 @@
+{
+  "required": [
+    "README.md",
+    "LICENSE",
+    "skill/SKILL.md",
+    "skill/references/wallet-connection.md",
+    "skill/references/transaction-signing.md",
+    "skill/references/mobile-wallet-adapter.md",
+    "skill/references/error-playbook.md",
+    "skill/references/review-checklist.md",
+    "commands/diagnose-wallet.md",
+    "commands/audit-wallet-flow.md",
+    "rules/wallet-adapter-react.md"
+  ]
+}
