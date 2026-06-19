@@ -1,0 +1,22 @@
+{
+  "name": "solana-wallet-adapter-troubleshooter-skill",
+  "version": "1.0.0",
+  "description": "Agent skill for diagnosing Solana wallet adapter, Mobile Wallet Adapter, signing, and transaction confirmation issues.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "validate": "node scripts/validate-skill.mjs"
+  },
+  "keywords": [
+    "solana",
+    "wallet-adapter",
+    "mobile-wallet-adapter",
+    "claude-code-skill",
+    "codex-skill",
+    "solana-ai-kit",
+    "web3",
+    "react",
+    "nextjs"
+  ],
+  "license": "MIT"
+}
